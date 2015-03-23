@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DadApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question">What fishing programmes are on?</string>
+    <string name="request_button">Check</string>
+    <string name="title_activity_programmes">ProgrammesActivity</string>
+
+</resources>
